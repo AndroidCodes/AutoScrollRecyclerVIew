@@ -17,6 +17,15 @@ import java.util.ArrayList;
 
 public class MainActivity extends AppCompatActivity {
 
+    /*
+    *   Also Check Following Links :
+    *
+    *   https://blog.stylingandroid.com/scrolling-recyclerview-part-1/
+    *   https://blog.stylingandroid.com/scrolling-recycler-view-part-2/
+    *   https://blog.stylingandroid.com/scrolling-recyclerview-part-3/
+    *
+    * */
+
     private ArrayList<Integer> arrayList = null;
 
     private Activity activity;
